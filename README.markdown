@@ -1,3 +1,17 @@
+# pandoc-templates-legacy
+
+Prior to 2017, pandoc's templates lived in a separate
+repository.  In 2017, they were moved to the directory
+`data/templates` in [pandoc's main
+repository](https://github.com/jgm/pandoc). The
+[pandoc-templates](https://github.com/jgm/pandoc-templates)
+repository simply mirrors that directory.
+
+This repository contains the pre-2017 history.
+It is provided for research purposes only.
+
+---
+
 The [pandoc-templates] repository contains default templates for [pandoc].
 
 If you use custom templates, we recommend forking this
